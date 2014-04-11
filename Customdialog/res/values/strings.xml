@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">CustomDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_custom_dialog">CustomDialogActivity</string>
+    <string name="title_customdialog">Various Custom Dialogs</string>
+    <string name="dl_simple_dialog">Simple Custom Dialog</string>
+    <string name="dl_border_dialog">Custom Dialog with Border</string>
+    <string name="dl_roundcorner_dialog">Custom Dialog with Round Corner</string>
+    <string name="dl_roundcorner_border_dialog">Custom Dialog with Round Corner &amp; Border</string>
+    <string name="title_text">Add Title Text</string>
+    <string name="message">Alert Message...</string>
+
+</resources>
